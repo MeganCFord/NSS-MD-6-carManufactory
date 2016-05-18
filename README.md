@@ -3,7 +3,7 @@
 **Author**: Megan Ford May 2016 
 
 
-Created as a student exercise as part of Nashville Software School's Front End Bootcamp curriculum. Please see below for fulfilled requirements: this exercise is not meant to be a finished production app or indication of current skills, but rather a demonstration of skills learned and utilized at the time of creation.
+ Student exercise as part of Nashville Software School's Front End Bootcamp curriculum. Please see below for fulfilled requirements: this exercise is not meant to be a finished production app or indication of current skills, but rather a demonstration of skills learned and utilized at the time of creation.
 
 
 Any/all images are for educational/example purposes only and are all rights reserved original owners. 
