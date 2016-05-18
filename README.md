@@ -1,6 +1,6 @@
-# __ Exercise
+# Car Manufactory Exercise
 
-**Author**: Megan Ford April 2016 
+**Author**: Megan Ford May 2016 
 
 
 Created as a student exercise as part of Nashville Software School's Front End Bootcamp curriculum. Please see below for fulfilled requirements: this exercise is not meant to be a finished production app or indication of current skills, but rather a demonstration of skills learned and utilized at the time of creation.
@@ -12,10 +12,10 @@ Any/all images are for educational/example purposes only and are all rights rese
 ## Instructions
 
 
-NSS Front-End Milestone 1 (Static Web) Exercise __: 
+NSS Front-End Milestone 3 (Modern Developer) Exercise 6: 
 
 
-[Requirements For Project](__)
+[Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/exercises/MJ_PROTOTYPAL_CARS.md)
 
 
 
@@ -25,13 +25,14 @@ NSS Front-End Milestone 1 (Static Web) Exercise __:
 ``` 
 git clone https://github.com/MeganCFord/NSS-MD-6-carManufactory
 cd 6-carmanufactory
+npm init
 open index.html
 ```
 
 [Live Site On Github]()
 
 
-![screenshot]()
+![screenshot](carmanufactory-screenshot.jpg)
 
 
 ## License 
