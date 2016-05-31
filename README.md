@@ -12,7 +12,7 @@ Any/all images are for educational/example purposes only and are all rights rese
 ## Instructions
 
 
-NSS Front-End Milestone 3 (Modern Developer) Exercise 6: 
+NSS Front-End Milestone 3 (Modern Developer) Exercise 7: 
 
 
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/exercises/MJ_PROTOTYPAL_CARS.md)
@@ -24,7 +24,7 @@ NSS Front-End Milestone 3 (Modern Developer) Exercise 6:
 
 ``` 
 git clone https://github.com/MeganCFord/NSS-MD-6-carManufactory
-cd 6-carmanufactory
+cd 7-carmanufactory
 npm init
 open index.html
 ```
